@@ -14,7 +14,7 @@ export default function Experience() {
             </h1>
           </div>
           <div className="flex flex-wrap pl-5 gap-4 md:gap-8">
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 50 50"
                 fill="none"
@@ -28,7 +28,7 @@ export default function Experience() {
               </svg>
               <p className="text-center text-sm">HTML</p>
             </div>
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 50 53"
                 fill="none"
@@ -55,7 +55,7 @@ export default function Experience() {
 
               <p className="text-center text-sm">CSS</p>
             </div>
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 50 50"
                 fill="none"
@@ -79,7 +79,7 @@ export default function Experience() {
             </h1>
           </div>
           <div className="flex flex-wrap pl-5 gap-4 md:gap-8">
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 44 27"
                 fill="none"
@@ -94,7 +94,7 @@ export default function Experience() {
 
               <p className="text-center text-sm">TAILWIND</p>
             </div>
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 16 16"
                 fill="none"
@@ -126,7 +126,7 @@ export default function Experience() {
             </h1>
           </div>
           <div className="flex flex-wrap pl-5 gap-4 md:gap-8">
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 50 50"
                 fill="none"
@@ -141,7 +141,7 @@ export default function Experience() {
 
               <p className="text-center text-sm">NEXT JS</p>
             </div>
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 50 50"
                 fill="none"
@@ -174,7 +174,7 @@ export default function Experience() {
             </h1>
           </div>
           <div className="flex flex-wrap pl-5 gap-4 md:gap-8">
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 50 50"
                 fill="none"
@@ -189,7 +189,7 @@ export default function Experience() {
 
               <p className="text-center text-sm">GITHUB</p>
             </div>
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 50 50"
                 fill="none"
@@ -204,7 +204,7 @@ export default function Experience() {
 
               <p className="text-center text-sm">GIT</p>
             </div>
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 width="36"
                 height="42"
@@ -223,7 +223,7 @@ export default function Experience() {
 
               <p className="text-center text-sm">PRISMA</p>
             </div>
-            <div className="min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md border">
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 viewBox="0 0 48 50"
                 fill="none"

@@ -162,9 +162,9 @@ export default function Home() {
             </div>
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="https://avatars.githubusercontent.com/u/139124580?v=4"
+                src="/images/myimage.JPG"
                 alt=""
-                className="w-64 rounded-full"
+                className="w-72 h-72 object-cover rounded-full"
               />
             </div>
           </div>

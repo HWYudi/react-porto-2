@@ -8,7 +8,7 @@ export default function Service() {
           Services
         </h1>
         <div className="mt-20 flex flex-wrap md:flex-nowrap gap-5 mx-10">
-          <div className="w-full md:w-1/3 p-5 md:p-8 bg-[#27313B] rounded-md">
+          <div className="w-full md:w-1/3 py-10 p-3 lg:p-8 bg-[#27313B] rounded-md">
             <div className="flex items-center gap-3">
               <svg
                 width="20"

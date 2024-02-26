@@ -11,22 +11,22 @@ export default function App() {
   return (
     <div>
       <Navbar/>
-      <UpButton/>
-      <section>
+      <section id='home'>
       <Home/>
       </section>
-      <section>
+      <section id='about'>
         <About/>
       </section>
-      <section>
+      <section id='experience'>
         <Experience/>
       </section>
-      <section>
+      <section id='services'>
         <Service/>
       </section>
-      <section>
+      <section id='project'>
         <Project/>
       </section>
+      <UpButton/>
     </div>
   )
 }

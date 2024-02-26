@@ -70,7 +70,7 @@ const Navbar = () => {
             </div>
           </div>
           <div className="hidden md:block">
-            <h1>Contact</h1>
+            <h1 className="bg-[#252B39] px-5 py-2 rounded-full text-[#7AEAD1] border border-[#454B57]">Contact</h1>
           </div>
         </div>
       </div>
