@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="bg-[#27313B] text-white py-10">
-      <div className="w-full h-screen flex justify-center items-center">
+    <div className="bg-[#27313B] text-white py-10 md:py-0">
+      <div className="w-full min-h-screen flex justify-center items-center">
         <div className="max-w-screen-xl mx-auto">
           <div className="flex flex-wrap md:flex-nowrap justify-center items-start xl:items-center mx-10 gap-10 md:gap-0">
             <div className="w-full md:w-1/2 flex flex-col gap-3">
@@ -12,7 +12,7 @@ export default function Home() {
                 <h1 className="text-4xl font-bold">
                   This Is{" "}
                   <span className="text-[#6957DF]">Hijriyanto Wahyudi</span>{" "}
-                  Fullstack Engineer.
+                  Fullstack Developer
                 </h1>
               </div>
               <div>
