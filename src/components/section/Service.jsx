@@ -38,9 +38,8 @@ export default function Service() {
               <h1 className="text-base">Web Development</h1>
             </div>
             <p className="text-sm mt-3 capitalize">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reiciendis velit aliquid quos nisi sint! Qui tempore praesentium
-              soluta. Doloribus, sapiente.
+              Making dynamic or static websites and responsive websites. Or
+              Full-stack Website depending on the project.
             </p>
           </div>
 
@@ -71,12 +70,10 @@ export default function Service() {
                   </linearGradient>
                 </defs>
               </svg>
-              <h1 className="text-base">Web Development</h1>
+              <h1 className="text-base">UI/UX DESIGN</h1>
             </div>
             <p className="text-sm mt-3 capitalize">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reiciendis velit aliquid quos nisi sint! Qui tempore praesentium
-              soluta. Doloribus, sapiente.
+            making a website with good user interface and good user experience for make it looks good
             </p>
           </div>
 
@@ -107,12 +104,10 @@ export default function Service() {
                   </linearGradient>
                 </defs>
               </svg>
-              <h1 className="text-base">Web Development</h1>
+              <h1 className="text-base">Mobile Development</h1>
             </div>
             <p className="text-sm mt-3 capitalize">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Reiciendis velit aliquid quos nisi sint! Qui tempore praesentium
-              soluta. Doloribus, sapiente.
+            making a responsive mobile application using progressive web application/ PWA
             </p>
           </div>
         </div>

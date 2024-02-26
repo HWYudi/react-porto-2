@@ -49,28 +49,51 @@ const Navbar = () => {
             }`}
           >
             <div className="ml-8 md:ml-0 mt-1 md:mt-0 mb-4 md:mb-0 flex flex-col md:flex-row md:gap-5">
-              <a href="#about" className=" hover:text-[#5E3BEE]">
+              <a
+                href="#about"
+                className="hover:bg-[#6957DF] hover:text-white duration-300 px-2 py-1 rounded-full"
+              >
                 <div className="items-center">About</div>
               </a>
               <a
                 href="#experience"
-                className="hover:text-[#5E3BEE] duration-200"
+                className="hover:bg-[#6957DF] hover:text-white duration-300 px-2 py-1 rounded-full"
               >
                 <div className="items-center">Experience</div>
               </a>
-              <a href="#services">
-                <h1 className="items-center hover:underline">Services</h1>
+              <a
+                href="#services"
+                className="hover:bg-[#6957DF] hover:text-white duration-300 px-2 py-1 rounded-full"
+              >
+                <h1 className="items-center">Services</h1>
               </a>
-              <a href="#project">
-                <h1 className="items-center hover:underline">Project</h1>
+              <a
+                href="#project"
+                className="hover:bg-[#6957DF] hover:text-white duration-300 px-2 py-1 rounded-full"
+              >
+                <h1 className="items-center">Project</h1>
               </a>
-              <a href="#contact" className="block md:hidden ">
-                <div className="items-center">Contact</div>
+              <a
+                href="https://www.instagram.com/yuu.jsx/"
+                target="_blank"
+                rel="noreferrer"
+                className="md:hidden"
+              >
+                <div className="items-center inline-block md:hidden bg-[#252B39] px-5 py-2 rounded-full text-[#7AEAD1] border border-[#454B57] hover:bg-[#454B57] hover:text-[#7AEAD1] duration-300">
+                  Contact
+                </div>
               </a>
             </div>
           </div>
           <div className="hidden md:block">
-            <h1 className="bg-[#252B39] px-5 py-2 rounded-full text-[#7AEAD1] border border-[#454B57]">Contact</h1>
+            <a
+              href="https://www.instagram.com/yuu.jsx/"
+              target="_blank"
+              rel="noreferrer"
+              className="bg-[#252B39] px-5 py-2 rounded-full text-[#7AEAD1] border border-[#454B57] hover:bg-[#454B57] hover:text-[#7AEAD1] duration-300"
+            >
+              Contact
+            </a>
           </div>
         </div>
       </div>

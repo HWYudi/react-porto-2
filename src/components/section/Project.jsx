@@ -12,8 +12,10 @@ export default function Project() {
           </div>
           <div className="w-fit">
             <a
-              href="/"
-              className="bg-[#6957DF] text-white px-6 py-2 rounded-full font-medium flex items-center justify-center gap-2"
+              href="https://github.com/HWYudi"
+              target="_blank"
+              rel="noreferrer"
+              className="bg-[#6957DF] text-white hover:bg-[#6957DF]/80 duration-200  px-6 py-2 rounded-full font-medium flex items-center justify-center gap-2"
             >
               <svg
                 width="20"
@@ -41,7 +43,7 @@ export default function Project() {
         <div className="mt-10 md:mt-20 flex flex-wrap md:flex-nowrap mx-10 gap-10">
           <div className="w-full md:w-1/3 bg-[#3C454E] rounded-md overflow-hidden">
             <img
-              src="images/mockupweb2.png"
+              src="./images/mockupweb2.png"
               alt=""
               className="w-full h-72 object-cover"
             />
@@ -105,7 +107,7 @@ export default function Project() {
 
           <div className="w-full md:w-1/3 bg-[#3C454E] rounded-md overflow-hidden">
             <img
-              src="images/iPhone 11 Pro Free Premium Mockup2 PSD.png"
+              src="./images/iPhone 11 Pro Free Premium Mockup2 PSD.png"
               alt=""
               className="w-full h-72"
             />
@@ -168,7 +170,7 @@ export default function Project() {
 
           <div className="w-full md:w-1/3 bg-[#3C454E] rounded-md overflow-hidden">
             <img
-              src="images/iPhone 11 Pro Free Premium Mockup PSD.png"
+              src="./images/iPhone 11 Pro Free Premium Mockup PSD.png"
               alt=""
               className="w-full h-72"
             />

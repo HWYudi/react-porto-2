@@ -12,17 +12,12 @@ export default function About() {
             <h1 className="text-3xl font-bold">
               <span className="text-[#6957DF]">Fullstack</span> Developer
             </h1>
-            <p className="text-[#7c8594] capitalize text-base">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem,
-              voluptatum! Veritatis quo laboriosam cum, molestias nihil id! Quos
-              explicabo aut corporis. Laborum, nihil quibusdam debitis nam
-              temporibus aspernatur possimus harum modi cum iusto dolore
-              consequuntur eum. Quasi unde ab cumque, beatae, laborum neque
-              nobis commodi nulla quas dignissimos doloribus quam?
+            <p className="capitalize text-base bg-[#252B39] mt-5 p-5 rounded-xl">
+             let me introduce myself my name is hijriyanto wahyudi but you can call me yudi I am 17 years old my pronouns are he/him , i live in batam kepulauan riau , I am a student of SMK Negeri 7 Batam , my hobby is playing games , reading , listening music , I am a Fullstack Developer. I love to build web applications. i love to learn new things.
             </p>
           </div>
           <div className="w-full md:w-1/2">
-            <img src="/images/image (13).png" alt="" />
+            <img src="./images/image (13).png" alt="" />
           </div>
         </div>
       </div>

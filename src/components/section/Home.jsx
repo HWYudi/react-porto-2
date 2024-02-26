@@ -24,8 +24,10 @@ export default function Home() {
               <div className="flex gap-4">
                 <div className="w-fit">
                   <a
-                    href="/"
-                    className="bg-[#6957DF] text-white px-6 py-2 rounded-full font-medium flex items-center justify-center gap-2"
+                    href="https://github.com/HWYudi"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="bg-[#6957DF] text-white hover:bg-[#6957DF]/80 duration-200  px-6 py-2 rounded-full font-medium flex items-center justify-center gap-2"
                   >
                     <svg
                       width="20"
@@ -50,8 +52,14 @@ export default function Home() {
                   </a>
                 </div>
 
-                <div className="w-fit bg-[#232B36] border border-[#323A45] text-white px-6 py-2 rounded-full font-medium flex items-center justify-center gap-2">
-                  <a href="/">contact me</a>
+                <div className="w-fit bg-[#232B36] border border-[#323A45] text-white hover:bg-[#454B57] hover:text-[#7AEAD1] duration-300 px-6 py-2 rounded-full font-medium flex items-center justify-center gap-2">
+                  <a
+                    href="https://www.instagram.com/yuu.jsx/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    contact me
+                  </a>
                 </div>
               </div>
               <div className="mt-16 flex flex-wrap lg:flex-nowrap gap-10">
@@ -162,7 +170,7 @@ export default function Home() {
             </div>
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="/images/myimage.JPG"
+                src="./images/myimage.JPG"
                 alt=""
                 className="w-72 h-72 object-cover rounded-full"
               />
