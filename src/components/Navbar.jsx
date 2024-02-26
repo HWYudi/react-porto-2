@@ -7,13 +7,13 @@ const Navbar = () => {
     <div className="sticky w-full top-0 bg-[#27313B] text-white">
       <div className="max-w-screen-xl mx-auto py-4">
         <div className="px-10 xl:px-0 md:flex items-center justify-between">
-          <div className="font-bold text-xl md:text-2xl cursor-pointer flex items-center">
+          <div className="font-bold text-xl cursor-pointer flex items-center">
             <h1>Yudi</h1>
           </div>
 
           <div
             onClick={() => setOpen(!open)}
-            className="text-3xl absolute right-4 top-5 cursor-pointer md:hidden"
+            className="absolute right-4 top-5 cursor-pointer md:hidden"
           >
             {open ? (
               <svg
@@ -48,7 +48,7 @@ const Navbar = () => {
               open ? "top-[55px]" : "top-[-490px]"
             }`}
           >
-            <div className="ml-8 md:ml-0 text-xl mt-1 md:mt-0 mb-4 md:mb-0 flex flex-col md:flex-row md:gap-5">
+            <div className="ml-8 md:ml-0 mt-1 md:mt-0 mb-4 md:mb-0 flex flex-col md:flex-row md:gap-5">
               <a href="#about" className=" hover:text-[#5E3BEE]">
                 <div className="items-center">About</div>
               </a>

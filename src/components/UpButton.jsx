@@ -2,7 +2,7 @@ import React from "react";
 
 export default function UpButton() {
   return (
-    <div className="fixed bottom-4 md:bottom-8 right-4 md:right-8 bg-white p-2 rounded-sm">
+    <div className="fixed bottom-4 md:bottom-8 right-4 md:right-8 bg-white p-2 rounded-sm hover:bg-slate-300 active:bg-slate-400 ">
         <a href="#home">
       <svg
         xmlns="http://www.w3.org/2000/svg"
