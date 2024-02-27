@@ -21,7 +21,7 @@ export default function Home() {
                   Website, Frontend, Backend and Mobile.
                 </p>
               </div>
-              <div className="flex gap-4">
+              <div className="w-full flex gap-2">
                 <div className="w-fit">
                   <a
                     href="https://github.com/HWYudi"
