@@ -336,7 +336,7 @@ export default function Project() {
           </div>
 
           <div className="bg-[#3C454E] rounded-md overflow-hidden">
-            <img src="./images/mockupweb2.png" alt="" className="w-full h-72 object-cover" />
+            <img src="./images/mockupweb3.png" alt="" className="w-full h-72 object-cover" />
             <div className="p-4 text-center">
               <h1 className="text-2xl font-semibold">
                 Streaming Anime Android UI
