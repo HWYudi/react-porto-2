@@ -8,12 +8,13 @@ export default function Home() {
           <div className="flex flex-wrap md:flex-nowrap justify-center items-start xl:items-center mx-10 gap-10 md:gap-0">
             <div className="w-full md:w-1/2 flex flex-col gap-3">
               <div>
-                <h1 className="text-4xl font-bold">Hi There!</h1>
-                <h1 className="text-4xl font-bold">
-                  This Is{" "}
-                  <span className="text-[#6957DF]">Hijriyanto Wahyudi</span>{" "}
-                  Fullstack Developer
+                <p className="text-base font-bold">Hello Everyone 👋 I'm</p>
+                <h1 className="text-2xl md:text-4xl font-bold">
+                  <span className="text-[#7aead1]">
+                    Hijriyanto Wahyudi
+                  </span>
                 </h1>
+                <h1 className="text-base md:text-xl font-bold">Fullstack Developer</h1>
               </div>
               <div>
                 <p className="text-[#7C8594] font-medium text-xs">
@@ -170,7 +171,7 @@ export default function Home() {
             </div>
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="./images/myimage.JPG"
+                src="./images/myimage2.JPG"
                 alt=""
                 className="w-72 h-72 object-cover rounded-full"
               />

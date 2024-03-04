@@ -41,7 +41,7 @@ export default function Project() {
           </div>
         </div>
         <div className="mt-10 md:mt-20 grid grid-cols-1 md:grid-cols-3 mx-10 gap-10">
-          <div className="bg-[#3C454E] rounded-md overflow-hidden">
+          <div className="bg-[#3C454E] rounded-md overflow-hidden hover:opacity-80">
             <img
               src="./images/mockupweb2.png"
               alt=""
@@ -105,7 +105,7 @@ export default function Project() {
             </div>
           </div>
 
-          <div className="bg-[#3C454E] rounded-md overflow-hidden">
+          <div className="bg-[#3C454E] rounded-md overflow-hidden hover:opacity-80">
             <img
               src="./images/iPhone 11 Pro Free Premium Mockup2 PSD.png"
               alt=""
@@ -168,7 +168,7 @@ export default function Project() {
             </div>
           </div>
 
-          <div className="bg-[#3C454E] rounded-md overflow-hidden">
+          <div className="bg-[#3C454E] rounded-md overflow-hidden hover:opacity-80">
             <img
               src="./images/iPhone 11 Pro Free Premium Mockup PSD.png"
               alt=""
@@ -225,7 +225,7 @@ export default function Project() {
             </div>
           </div>
 
-          <div className="bg-[#3C454E] rounded-md overflow-hidden">
+          <div className="bg-[#3C454E] rounded-md overflow-hidden hover:opacity-80">
             <img
               src="https://miro.medium.com/v2/resize:fit:5120/1*bncDvymgu3X27-br-gH-Fw.png"
               alt=""
@@ -282,8 +282,12 @@ export default function Project() {
             </div>
           </div>
 
-          <div className="bg-[#3C454E] rounded-md overflow-hidden">
-            <img src="./images/mockupweb.png" alt="" className="w-full h-72 object-cover" />
+          <div className="bg-[#3C454E] rounded-md overflow-hidden hover:opacity-80">
+            <img
+              src="./images/mockupweb.png"
+              alt=""
+              className="w-full h-72 object-cover"
+            />
             <div className="p-4 text-center">
               <h1 className="text-2xl font-semibold">Portfolio Website</h1>
               <p className="capitalize text-sm mt-3">
@@ -335,8 +339,12 @@ export default function Project() {
             </div>
           </div>
 
-          <div className="bg-[#3C454E] rounded-md overflow-hidden">
-            <img src="./images/mockupweb3.png" alt="" className="w-full h-72 object-cover" />
+          <div className="bg-[#3C454E] rounded-md overflow-hidden hover:opacity-80">
+            <img
+              src="./images/mockupweb3.png"
+              alt=""
+              className="w-full h-72 object-cover"
+            />
             <div className="p-4 text-center">
               <h1 className="text-2xl font-semibold">
                 Streaming Anime Android UI

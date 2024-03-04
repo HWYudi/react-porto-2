@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Service() {
   return (
-    <div className="py-20 bg-[#3C454E] text-white">
+    <div className="py-20 bg-gray-800 text-white">
       <div className="max-w-screen-xl mx-auto">
         <h1 className="mx-10 text-3xl font-semibold border-b-2 border-white inline-block">
           Services
