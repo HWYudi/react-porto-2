@@ -171,7 +171,7 @@ export default function Home() {
             </div>
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="./images/myimage2.Jpg"
+                src="./images/myimage.Jpg"
                 alt=""
                 className="w-72 h-72 object-cover rounded-full"
               />
