@@ -10,11 +10,11 @@ export default function Home() {
               <div>
                 <p className="text-base font-bold">Hello Everyone 👋 I'm</p>
                 <h1 className="text-2xl md:text-4xl font-bold">
-                  <span className="text-[#7aead1]">
-                    Hijriyanto Wahyudi
-                  </span>
+                  <span className="text-[#7aead1]">Hijriyanto Wahyudi</span>
                 </h1>
-                <h1 className="text-base md:text-xl font-bold">Fullstack Developer</h1>
+                <h1 className="text-base md:text-xl font-bold">
+                  Fullstack Developer
+                </h1>
               </div>
               <div>
                 <p className="text-[#7C8594] font-medium text-xs">
@@ -171,9 +171,9 @@ export default function Home() {
             </div>
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="./images/myimage.Jpg"
+                src="https://avatars.githubusercontent.com/u/139124580?v=4"
                 alt=""
-                className="w-72 h-72 object-cover rounded-full"
+                class="w-80 h-80 object-cover rounded-full"
               />
             </div>
           </div>

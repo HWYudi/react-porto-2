@@ -4,7 +4,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className="sticky w-full top-0 bg-[#27313B] text-white">
+    <div className="sticky shadow-lg w-full top-0 bg-[#27313B] text-white">
       <div className="max-w-screen-xl mx-auto py-4">
         <div className="px-10 xl:px-0 md:flex items-center justify-between">
           <div className="font-bold text-xl cursor-pointer flex items-center">
