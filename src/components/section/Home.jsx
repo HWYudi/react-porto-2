@@ -12,12 +12,12 @@ export default function Home() {
                 <h1 className="text-2xl md:text-4xl font-bold">
                   <span className="text-[#7aead1]">Hijriyanto Wahyudi</span>
                 </h1>
-                <h1 className="text-base md:text-xl font-bold">
-                  Fullstack Developer
-                </h1>
+                <div className="w-fit">
+                <h1 class="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-white pr-5 text-base md:text-xl font-bold">Fullstack Developer</h1>
+                </div>
               </div>
               <div>
-                <p className="text-[#7C8594] font-medium text-xs">
+                <p className="text-[#7C8594] font-medium text-sm">
                   I’ll provides a full service range including technical skills.
                   Website, Frontend, Backend and Mobile.
                 </p>
