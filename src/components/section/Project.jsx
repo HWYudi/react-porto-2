@@ -45,7 +45,7 @@ export default function Project() {
             <img
               src="./images/meme web.png"
               alt=""
-              className="w-full h-72 object-cover"
+              className="w-full h-full object-cover"  
             />
             <div className="p-4 text-center">
               <h1 className="text-2xl font-semibold">Meme Website</h1>

@@ -171,9 +171,9 @@ export default function Home() {
             </div>
             <div className="w-full md:w-1/2 flex justify-center">
               <img
-                src="https://avatars.githubusercontent.com/u/139124580?v=4"
+                src="./images/image (24).png"
                 alt=""
-                class="w-80 h-80 object-cover rounded-full"
+                class="w-80 h-80 object-cover rounded-full border border-[#7AEAD1] shadow-[0_0_40px_0_#7AEAD1]"
               />
             </div>
           </div>
