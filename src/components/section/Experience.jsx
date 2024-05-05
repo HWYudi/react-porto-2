@@ -123,7 +123,48 @@ export default function Experience() {
                 </g>
               </svg>
 
-              <p className="text-center text-sm">React</p>
+              <p className="text-center text-sm">React JS</p>
+            </div>
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" className="w-10 h-10 md:w-14 md:h-14">
+                <defs>
+                  <linearGradient
+                    id="a"
+                    x1="6"
+                    x2="235"
+                    y1="33"
+                    y2="344"
+                    gradientTransform="translate(0 .937) scale(.3122)"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset="0" stop-color="#41d1ff" />
+                    <stop offset="1" stop-color="#bd34fe" />
+                  </linearGradient>
+                  <linearGradient
+                    id="b"
+                    x1="194.651"
+                    x2="236.076"
+                    y1="8.818"
+                    y2="292.989"
+                    gradientTransform="translate(0 .937) scale(.3122)"
+                    gradientUnits="userSpaceOnUse"
+                  >
+                    <stop offset="0" stop-color="#ffea83" />
+                    <stop offset=".083" stop-color="#ffdd35" />
+                    <stop offset="1" stop-color="#ffa800" />
+                  </linearGradient>
+                </defs>
+                <path
+                  fill="url(#a)"
+                  d="M124.766 19.52 67.324 122.238c-1.187 2.121-4.234 2.133-5.437.024L3.305 19.532c-1.313-2.302.652-5.087 3.261-4.622L64.07 25.187a3.09 3.09 0 0 0 1.11 0l56.3-10.261c2.598-.473 4.575 2.289 3.286 4.594Zm0 0"
+                />
+                <path
+                  fill="url(#b)"
+                  d="M91.46 1.43 48.954 9.758a1.56 1.56 0 0 0-1.258 1.437l-2.617 44.168a1.563 1.563 0 0 0 1.91 1.614l11.836-2.735a1.562 1.562 0 0 1 1.88 1.836l-3.517 17.219a1.562 1.562 0 0 0 1.985 1.805l7.308-2.223c1.133-.344 2.223.652 1.985 1.812l-5.59 27.047c-.348 1.692 1.902 2.614 2.84 1.164l.625-.968 34.64-69.13c.582-1.16-.421-2.48-1.69-2.234l-12.185 2.352a1.558 1.558 0 0 1-1.793-1.965l7.95-27.562A1.56 1.56 0 0 0 91.46 1.43Zm0 0"
+                />
+              </svg>
+
+              <p className="text-center text-sm">Vite JS</p>
             </div>
           </div>
         </div>
@@ -146,20 +187,7 @@ export default function Experience() {
 
               <p className="text-center text-sm">Next JS</p>
             </div>
-            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 128 128"
-                className="w-10 h-10 md:w-14 md:h-14"
-              >
-                <path
-                  fill="#f58220"
-                  d="M27.35 80.52l10.68-68.44c.37-2.33 3.5-2.89 4.6-.8l11.48 21.48-26.76 47.76zm75.94 16.63L93.1 34.11c-.31-1.96-2.76-2.76-4.17-1.35L24.71 97.15l35.54 19.95a7.447 7.447 0 007.18 0l35.86-19.95zm-28.85-55L66.21 26.5c-.92-1.78-3.44-1.78-4.36 0L25.7 90.95l48.74-48.8z"
-                />
-              </svg>
 
-              <p className="text-center text-sm">Firebase</p>
-            </div>
             <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -197,25 +225,6 @@ export default function Experience() {
               </svg>
 
               <p className="text-center text-sm">Laravel</p>
-            </div>
-            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
-              <svg
-                width="36"
-                height="42"
-                viewBox="0 0 36 42"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-                className="w-10 h-10 md:w-14 md:h-14"
-              >
-                <path
-                  fill-rule="evenodd"
-                  clip-rule="evenodd"
-                  d="M32.1834 33.2167L12.9784 38.7504C12.3917 38.9197 11.8293 38.4253 11.9527 37.8487L18.8133 5.83623C18.9417 5.23761 19.791 5.14255 20.059 5.69691L32.7622 31.9782C33.0018 32.474 32.7286 33.0598 32.1834 33.2167ZM35.4765 31.9115L20.768 1.4803C20.3991 0.719547 19.6293 0.216953 18.7568 0.170391C17.8618 0.11961 17.0598 0.540183 16.6074 1.25602L0.655365 26.4289C0.161198 27.2135 0.170886 28.1809 0.683431 28.956L8.48114 40.7243C8.94591 41.4268 9.75112 41.8334 10.588 41.8334C10.8252 41.8334 11.0638 41.8009 11.2984 41.7332L33.9338 35.2111C34.6272 35.0112 35.1941 34.5334 35.4908 33.8999C35.7866 33.2661 35.7808 32.541 35.4765 31.9115Z"
-                  fill="#00BFA5"
-                />
-              </svg>
-
-              <p className="text-center text-sm">Prisma</p>
             </div>
           </div>
         </div>
@@ -255,6 +264,39 @@ export default function Experience() {
               </svg>
 
               <p className="text-center text-sm">Git</p>
+            </div>
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 128 128"
+                className="w-10 h-10 md:w-14 md:h-14"
+              >
+                <path
+                  fill="#f58220"
+                  d="M27.35 80.52l10.68-68.44c.37-2.33 3.5-2.89 4.6-.8l11.48 21.48-26.76 47.76zm75.94 16.63L93.1 34.11c-.31-1.96-2.76-2.76-4.17-1.35L24.71 97.15l35.54 19.95a7.447 7.447 0 007.18 0l35.86-19.95zm-28.85-55L66.21 26.5c-.92-1.78-3.44-1.78-4.36 0L25.7 90.95l48.74-48.8z"
+                />
+              </svg>
+
+              <p className="text-center text-sm">Firebase</p>
+            </div>
+            <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
+              <svg
+                width="36"
+                height="42"
+                viewBox="0 0 36 42"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                className="w-10 h-10 md:w-14 md:h-14"
+              >
+                <path
+                  fill-rule="evenodd"
+                  clip-rule="evenodd"
+                  d="M32.1834 33.2167L12.9784 38.7504C12.3917 38.9197 11.8293 38.4253 11.9527 37.8487L18.8133 5.83623C18.9417 5.23761 19.791 5.14255 20.059 5.69691L32.7622 31.9782C33.0018 32.474 32.7286 33.0598 32.1834 33.2167ZM35.4765 31.9115L20.768 1.4803C20.3991 0.719547 19.6293 0.216953 18.7568 0.170391C17.8618 0.11961 17.0598 0.540183 16.6074 1.25602L0.655365 26.4289C0.161198 27.2135 0.170886 28.1809 0.683431 28.956L8.48114 40.7243C8.94591 41.4268 9.75112 41.8334 10.588 41.8334C10.8252 41.8334 11.0638 41.8009 11.2984 41.7332L33.9338 35.2111C34.6272 35.0112 35.1941 34.5334 35.4908 33.8999C35.7866 33.2661 35.7808 32.541 35.4765 31.9115Z"
+                  fill="#00BFA5"
+                />
+              </svg>
+
+              <p className="text-center text-sm">Prisma</p>
             </div>
             <div className="border border-[#454B57] hover:border-[#7AEAD1] min-w-24 md:min-w-28 w-fit h-fit flex flex-col justify-center items-center pt-4 pb-1 px-1 gap-2 rounded-md">
               <svg
